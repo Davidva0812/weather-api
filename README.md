@@ -27,8 +27,8 @@ pip install pygame requests
 ```
 
 ## **Screenshots**
-![screenshot](screenshots/weather_debrecen.png)
-![screenshot](screenshots/weather_london.png)
+![screenshot](weather_api_project/screenshots/weather_debrecen.png)
+![screenshot](weather_api_project/screenshots/weather_london.png)
 
 ## **Example output**
 Current weather: clear sky   
