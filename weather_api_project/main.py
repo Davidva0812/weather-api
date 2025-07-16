@@ -5,6 +5,7 @@ from datetime import datetime
 from io import BytesIO
 from config import my_key
 
+
 API_KEY = my_key
 URL_DATA = "https://api.openweathermap.org/data/2.5/weather"
 URL_FORECAST = "https://api.openweathermap.org/data/2.5/forecast"

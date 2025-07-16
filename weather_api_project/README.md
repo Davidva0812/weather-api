@@ -26,6 +26,10 @@ To install the required dependencies, run:
 pip install pygame requests
 ```
 
+## **Screenshots**
+![screenshot](screenshots/weather_debrecen.png)
+![screenshot](screenshots/weather_london.png)
+
 ## **Example output**
 Current weather: clear sky   
 Temperature: 15°C    
